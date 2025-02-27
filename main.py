@@ -8,5 +8,5 @@ pages = [
     st.Page('metric.py', title = 'Оценка')
 ]
 
-pg = st.navigation(pages)
-pg.run()
+pg_h = st.navigation(pages)
+pg_h.run()
